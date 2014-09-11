@@ -5,7 +5,7 @@ $addressprefix = '[c]';        // first char of address (regex)
 $addresslength = '33';           // length in chars -1 (regex)
 $addressversion = '58';          // hex address prefix, upper case
 $maxaddrlength = '34';           // maximum address length
-$self = 'ciRusE2SjCUYZXtQz7oF7kBYDgH8ZL2XSd';
+$self = 'cmSPVpJP7sHyaiNSXmzzbLhALTgAaYeYZ5';
 $donatezet = 'ZZero1ajtxEYXevBDrFLhf4yV53fXixkpj';
 $donatebtc = '1Nc4pX3CKGB5VA2mPjhaMxkCVLgkxsNkDi';
 
